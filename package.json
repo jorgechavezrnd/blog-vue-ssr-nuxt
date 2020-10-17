@@ -11,5 +11,15 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.17.3",
+    "cross-env": "^7.0.2",
+    "express": "^4.17.1",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.7"
   }
 }
